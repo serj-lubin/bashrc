@@ -10,3 +10,6 @@ steps:
   commands:
   - sleep 10
   
+trigger:
+  branch:
+  - master
